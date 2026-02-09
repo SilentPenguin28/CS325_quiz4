@@ -1,2 +1,6 @@
 def subtract(a, b): 
     return a - b
+#calculator.py
+
+def add(a, b):
+    return a + b
